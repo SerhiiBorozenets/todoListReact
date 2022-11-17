@@ -67,6 +67,8 @@ group :development do
   # gem "spring"
 end
 
+gem 'webpacker', '~> 5.4', '>= 5.4.3'
+
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara"
