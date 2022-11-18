@@ -34,7 +34,7 @@
 !/app/assets/builds/.keep
 
 /node_modules
-
+/.idea
 /public/packs
 /public/packs-test
 /node_modules
